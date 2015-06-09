@@ -13,5 +13,5 @@ void setup() {
 void draw() {
   background(0);
   shape(enemy,500,500);
-  shape(player,mouseX,mouseY);
+  shape(player,mouseX,200);
 }
